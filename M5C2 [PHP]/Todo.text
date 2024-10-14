@@ -1,0 +1,13 @@
+1. Variable scope in function 
+ -Local Variable 
+ -Global Variable
+ -SuperGlobals 
+
+ 2.Recursive function 
+
+ 3.Divide Large function into smaller function 
+ -login task
+ -Email validation
+ -password validation
+ -Email password matching
+ -User login
